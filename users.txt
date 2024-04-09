@@ -1,1 +1,2 @@
-# Users
+# Users 1
+"AadUserPrincipleName: Victim1@ntnuinft2504.onmicrosoft.com","AadPassword: Toyota010234"
